@@ -1,10 +1,26 @@
-# Getting Started with Create React App and Redux
+# Fusion Mart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
 
-In the project directory, you can run:
+#### Live Link
+#### Code Link Client Side
+#### Code Link Server Side
+
+### Description
+
+Project Name: Fusion Mart
+
+
+#### Front-end Technology
+- Firebase for authentication and deploy (hosting)
+- Tailwind CSS
+    ### `npm install -D tailwindcss`
+    ### `npx tailwindcss init`
+
+
+- Mamba UI (Tailwind Components)
+
+
 
 ### `npm start`
 
